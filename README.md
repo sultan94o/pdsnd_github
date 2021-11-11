@@ -4,14 +4,10 @@
 11 -nov -2021
 
 ### Project Title
-Bike Share analysis
+BikeShare Analysis
 ### Description
-provide deep analysis into three main cities
+this is an interactive program to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. it answers interesting questions about it by computing descriptive statistics. 
 ### Files used
-chicago
-new york city
-washington
-
-### Credits
-udaicy
-Nasser
+chicago.csv
+new_york_city.csv
+washington.csv
